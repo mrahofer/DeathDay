@@ -9,6 +9,6 @@ public class Main {
         System.out.println(" Enter your name: ");
         String name = scanner.nextLine();
 
-        System.out.println("... " +name +" will die on " );
+        System.out.println("... " +name +" will die on "  );
     }
 }
