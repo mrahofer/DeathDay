@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a689d7d5-25d9-4e6a-ba85-2ae2e195b7a1" name="Changes" comment="pom updaten">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a689d7d5-25d9-4e6a-ba85-2ae2e195b7a1" name="Changes" comment="Datum hinzugefügt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -24,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Arechber"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0391e8b8-2f79-4164-a1c9-32e77632aad9" />
+        <option name="url" value="https://github.com/mrahofer/deathDay.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,13 +50,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/melan/0-Schule HTL",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "com.dsoftware.ghmanager.ui.settings.GhActionsManagerConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -183,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700741697045</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Datum hinzugefügt">
+      <option name="closed" value="true" />
+      <created>1700742494572</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700742494572</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +228,7 @@
     <MESSAGE value="publish job added" />
     <MESSAGE value="publish job added teil 2" />
     <MESSAGE value="pom updaten" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom updaten" />
+    <MESSAGE value="Datum hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Datum hinzugefügt" />
   </component>
 </project>

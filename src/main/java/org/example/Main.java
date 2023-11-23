@@ -4,16 +4,27 @@ import java.util.Scanner;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.concurrent.TimeUnit;
 
 public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println(" Enter your name: ");
+        System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
-        System.out.println("... " +name +" will die on the " + getRandomDate() + "!");
+        try {
+            System.out.println("Searching in the future...");
+            TimeUnit.SECONDS.sleep(1);
+            for (int i = 0; i < 4; i++) {
+                System.out.println("Still searching in the future...");
+                TimeUnit.SECONDS.sleep(1);
+            }
+        } catch (Exception e) {
+            System.out.println(e);
+        }
 
+        System.out.println(name +" will die on the " + getRandomDate() + "!");
     }
 
     public static String getRandomDate() {
